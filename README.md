@@ -21,11 +21,12 @@ base = int(input())
 power = int(input())
 print("Exponentiation of a given number:",base**power)
 */
-
+git 
 
 ```
 
 ## Output:
+![exponentiation of a number](expo.png)
 
 
 
