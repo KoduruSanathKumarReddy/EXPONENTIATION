@@ -26,7 +26,7 @@ git
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+
 
 
 
