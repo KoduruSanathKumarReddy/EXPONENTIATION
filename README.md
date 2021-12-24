@@ -26,6 +26,8 @@ git
 ```
 
 ## Output:
+![exponentiation of a number](output.jpeg)
+
 
 
 ## Result:
